@@ -1,0 +1,5 @@
+Git Clone
+Git status
+
+O Git bash é um terminal extendido para 
+otimizar o uso do Git
